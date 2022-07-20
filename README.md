@@ -6,12 +6,11 @@ Project Details :
 Dependencies :
 
         
-         chakra-ui       //for ui obects
+        chakra-ui       //for ui obects
         emotion/react   // for peer Dependencies of chakra ui
-        emotion/styled 
-    
+        emotion/styled     
         axios           // for external api request
-         framer-motion
+        framer-motion
         millify         // large number of data to human readable format
         nprogress       // for loading bar
         react-icons
@@ -19,16 +18,25 @@ Dependencies :
         node js with LTS   // backend server
 
 
-Commands to execute 
+Commands to execute :
 
 // it will initialize new next js application 
 // with react , react-dom , next Dependencies
 
       npx  create-next-app@latest ./   
 
-//next step to install all the 3rd party Dependencies
+Next step to install all the 3rd party Dependencies :
 
     "npm install @chakra-ui/react @emotion/react @emption-styled axios 
     framer-motion millify nprogress react-horizontal-scrolling-menu react-icons"
 
 //run above Commands in terminal 
+
+TO Open project in browser run following command :
+    npm run dev
+
+After Running above command to open project in browser Type or paste Following url in Browser : 
+    http://localhost:3000
+
+Happy Coding ☺
+
