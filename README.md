@@ -45,3 +45,4 @@ Commands to execute
     framer-motion millify nprogress react-horizontal-scrolling-menu react-icons"
 
 //run above Commands in terminal 
+Happy Coding ☺
