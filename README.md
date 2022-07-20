@@ -7,6 +7,7 @@ Project Details :
 
 
 Dependencies :
+
     chakra-ui       //for ui obects
     
     emotion/react   // for peer Dependencies of chakra ui
