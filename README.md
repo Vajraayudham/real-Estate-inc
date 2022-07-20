@@ -33,10 +33,12 @@ Next step to install all the 3rd party Dependencies :
 //run above Commands in terminal 
 
 TO Open project in browser run following command :
+    
     npm run dev
 
 After Running above command to open project in browser Type or paste Following url in Browser : 
-    http://localhost:3000
+        
+        http://localhost:3000
 
 Happy Coding ☺
 
